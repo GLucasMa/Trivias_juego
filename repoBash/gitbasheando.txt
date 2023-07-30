@@ -1,0 +1,2 @@
+Este es mi archivo de prueba para aprender a utilizar Git Bash,
+utilizando los comandos desde la terminal, y realizando cambios al archivo
