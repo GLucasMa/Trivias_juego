@@ -16,7 +16,6 @@ conexion = mysql.connector.connect(host="127.0.0.1", user="root", password="Mart
 
 cursor = conexion.cursor()
 
-
 def cargar_datos():
     tree.delete(*tree.get_children())
     cursor = conexion.cursor()
